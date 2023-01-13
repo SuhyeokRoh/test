@@ -18,6 +18,10 @@
 ### 3. git commit -m "input something"
 
 `file에 수정된 부분에 대한 comment를 남기기`
+- git log: 지금까지 남긴 commit을 확인할 수 있다.
+(종료할 때에는 q 입력)
+
+- git commit --amend: 입력한 commit을 수정할 수 있다.(i 입력 후 수정, esc 클릭 후 명령어 입력)
 
 ### 4. git push
 

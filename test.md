@@ -15,28 +15,28 @@
 
 ## 2. 특징
 
-1. 파이썬은 인간다운 언어이다. 아래 코드는 쉽게 해석된다.
+1. **파이썬은 인간다운 언어이다. 아래 코드는 쉽게 해석된다.**
 
-if 4 in [1,2,3,4]: print("4가 있습니다.")
+    'if 4 in [1,2,3,4]: print("4가 있습니다.")'
 
-만약 4기 1, 2, 3, 4 중에 있으면 "4가 있습니다."를 출력한다. 라고 말이다.
+    *만약 4기 1, 2, 3, 4 중에 있으면 "4가 있습니다."를 출력한다.* 라고 말이다.
 
-2. 파이썬은 간결하다.
+2. **파이썬은 간결하다.**
 
-python
-#simple.py
-'''
+'''python
+# simple.py
 languages = [python', 'perl', 'C', 'java']
 
 for lang in languages:
-    print("%6s need interpreter" % lang)
-elif lang in ['C', 'java']:
-    print("%6s need complier" % lang)
-else:
-    print("should not reach here")
+    if lang in ['python','perl']:
+        print("%6s need interpreter" % lang)
+    elif lang in ['C', 'java']:
+        print("%6s need complier" % lang)
+    else:
+        print("should not reach here")
 '''
 
 
-## 3. 공식문서가 자세히 제공된다.
+3. **공식문서가 자세히 제공된다.**
 
 [파이썬 공식문서 링크](https://docs.python.org/3/)

@@ -1,9 +1,10 @@
 
+# Python
 
 
-1. 개요
+## 1. 개요
 
-https://wikidocs.net/images/page/5/pahkey_KRRKrp.png
+![download] https://wikidocs.net/images/page/5/pahkey_KRRKrp.png
 
 
 파이썬(Python)은 1990년 암스테르담의 귀도 반 로섬(Guido Van Rossum)이 개발한 인터프리터 언어이다. 귀도는 파이썬이라는 이름을 자신이 좋아하는 코미디 쇼인 "몬티 파이썬의 날아다니는 서커스(Monty Python's Flying Circus)"에서 따왔다고 한다.
@@ -12,7 +13,7 @@ https://wikidocs.net/images/page/5/pahkey_KRRKrp.png
 
 
 
-2. 특징
+## 2. 특징
 
 1. 파이썬은 인간다운 언어이다. 아래 코드는 쉽게 해석된다.
 
@@ -35,6 +36,6 @@ print("should not reach here")
 
 
 
-3. 공식문서가 자세히 제공된다.
+## 3. 공식문서가 자세히 제공된다.
 
 파이썬 공식문서 링크 https://docs.python.org/3/
